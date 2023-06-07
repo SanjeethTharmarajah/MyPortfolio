@@ -191,6 +191,42 @@ a:hover {
     left:0px;
     bottom:25px;
 }
+.contact {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    height:auto;
+    width:var(--fullwidth);
+    margin-bottom: var(--bottom);
+}
+.contactdescription {
+    padding:25px;
+    text-align: left;
+    font-size: 38px;
+    color: var(--dark);
+    flex: 0 0 70%;
+}
+.contact a {
+    color: var(--light);
+}
+.contact a:hover {
+    color:aqua;
+}
+.works {
+    border-top:5px solid var(--light);
+    border-radius:5px;
+    margin:25px;
+    font-size:16.5px;
+    line-height: 1.5;
+    color:black;
+    padding:25px;
+}
+.works a {
+    color: var(--light);
+}
+.works a:hover {
+    color:aqua;
+}
 @media screen and (max-width: 800px) {
     
     header, ul, .portfoliobox{   
