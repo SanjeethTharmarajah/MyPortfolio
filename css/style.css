@@ -184,12 +184,12 @@ a:hover {
 .spantitle{
     position:absolute;
     background-color:var(--light);
-    width:85px;
-    height:33px;
+    width:120px;
+    height:50px;
     color:var(--white);
     padding:10px;
     left:0px;
-    bottom:25px;
+    bottom:15px;
 }
 .contact {
     display:flex;
