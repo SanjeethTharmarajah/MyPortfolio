@@ -12,6 +12,7 @@ Create portfolio to display my skills
 Create a portfolio webpage for my employer
 ![image](https://github.com/SanjeethTharmarajah/MyPortfolio/assets/130941252/eb4f7142-bf87-4f1c-ada7-6646db93ab45)
 
+https://sanjeeththarmarajah.github.io/MyPortfolio/
 
 ```
 
